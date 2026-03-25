@@ -1,12 +1,12 @@
-## [cite_start]Jezreel Jorolan [cite: 1]
+##Jezreel Jorolan
 
 ### 🎮 Game Developer | Game Designer | Game Artist
-[cite_start]**Aspiring Game Developer** specializing in **Game Art** and **Game Design** with experience in **Unity and C#**[cite: 1]. [cite_start]I am skilled in creating engaging gameplay systems, UI design, and visual elements[cite: 2].
+**Aspiring Game Developer** specializing in **Game Art** and **Game Design** with experience in **Unity and C#**. Skilled in creating engaging gameplay systems, UI design, and visual elements.
 
 ---
 
-### 📄 Curriculum Vitae
-[![Download CV](https://img.shields.io/badge/Download-My%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/your-username/your-repo-name/raw/main/Jorolan_Resume.pdf)
+### CV
+[![Download CV]](https://github.com/juzire/Jorolan-portfolio/raw/main/Jorolan_Resume.pdf)
 
 ---
 
