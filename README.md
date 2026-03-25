@@ -1,8 +1,11 @@
 # Jezreel Jorolan
 
+---
+
 * **Portfolio:** [juzire.itch.io](https://juzire.itch.io)
 * **Email:** [jjezreeljorolan@gmail.com](mailto:jjezreeljorolan@gmail.com)
 
+---
 
 ### Game Developer | Game Designer | Game Artist
 **Aspiring Game Developer** specializing in **Game Art** and **Game Design** with experience in **Unity and C#**. Skilled in creating engaging gameplay systems, UI design, and visual elements.
@@ -29,14 +32,14 @@
 * Created gameplay layouts and player progression.
 * Designed levels exploring perspective-based mechanics in 2D and 3D environments.
 * **Tech:** Unity Engine
-* [Itch.io](https://nocturnal-entertainments.itch.io/sop)
-* [Github](https://juzire.itch.io/barricade)
+* **Itch.io:** [(https://nocturnal-entertainments.itch.io/sop)](https://nocturnal-entertainments.itch.io/sop)
+* **Github:** [Github](https://juzire.itch.io/barricade)
 
 #### Barricade – Tower Defense Game
 **Role:** Independent Developer (Applied Mathematics for Games Project)
 * Designed and implemented core mechanics, tower behavior, and enemy interactions.
 * **Tech:** Unity Engine, C#, Krita
-* [Itch.io](https://juzire.itch.io/barricade)
-* [Github](https://juzire.itch.io/barricade)
+* **Itch.io:** [(https://juzire.itch.io/barricade)](https://juzire.itch.io/barricade)
+* **Github:** [Github](https://juzire.itch.io/barricade)
 
 
