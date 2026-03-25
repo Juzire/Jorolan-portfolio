@@ -6,12 +6,7 @@
 ---
 
 ### CV
-[![Download CV]](https://github.com/juzire/Jorolan-portfolio/raw/main/Jorolan_CV.pdf)
-
----
-
-### 🚀 Profile
-[cite_start]I am passionate about designing immersive player experiences both creatively and technically[cite: 3]. [cite_start]Currently pursuing a **Bachelor of Science in Entertainment and Multimedia Computing (BSEMC)** at CIIT College of Arts & Technology[cite: 5].
+[[Download My CV]](https://github.com/juzire/Jorolan-portfolio/raw/main/Jorolan_CV.pdf)
 
 ---
 
