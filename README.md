@@ -13,7 +13,7 @@
 ---
 
 ### CV
-([Download My CV.pdf](https://github.com/Juzire/Jorolan-portfolio/blob/main/Jorolan%20CV.pdf))
+[Download My CV.pdf](https://github.com/Juzire/Jorolan-portfolio/blob/main/Jorolan%20CV.pdf)
 
 ---
 
@@ -32,14 +32,14 @@
 * Created gameplay layouts and player progression.
 * Designed levels exploring perspective-based mechanics in 2D and 3D environments.
 * **Tech:** Unity Engine
-* **Itch.io:** [(https://nocturnal-entertainments.itch.io/sop)](https://nocturnal-entertainments.itch.io/sop)
+* **Itch.io:** [https://nocturnal-entertainments.itch.io/sop](https://nocturnal-entertainments.itch.io/sop)
 * **Github:** [Github](https://juzire.itch.io/barricade)
 
 #### Barricade – Tower Defense Game
 **Role:** Independent Developer (Applied Mathematics for Games Project)
 * Designed and implemented core mechanics, tower behavior, and enemy interactions.
 * **Tech:** Unity Engine, C#, Krita
-* **Itch.io:** [(https://juzire.itch.io/barricade)](https://juzire.itch.io/barricade)
+* **Itch.io:** [https://juzire.itch.io/barricade](https://juzire.itch.io/barricade)
 * **Github:** [Github](https://juzire.itch.io/barricade)
 
 
