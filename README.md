@@ -33,7 +33,7 @@
 * Designed levels exploring perspective-based mechanics in 2D and 3D environments.
 * **Tech:** Unity Engine
 * **Itch.io:** [https://nocturnal-entertainments.itch.io/sop](https://nocturnal-entertainments.itch.io/sop)
-* **Github:** [Github](https://juzire.itch.io/barricade)
+* **Github:** [https://github.com/HunchLorenzana/UntitledPuzzleGame](https://github.com/HunchLorenzana/UntitledPuzzleGame))
 
 #### Barricade – Tower Defense Game
 **Role:** Independent Developer (Applied Mathematics for Games Project)
