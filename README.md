@@ -1,6 +1,6 @@
-### Jezreel Jorolan
+## Jezreel Jorolan
 
-## Game Developer | Game Designer | Game Artist
+### Game Developer | Game Designer | Game Artist
 **Aspiring Game Developer** specializing in **Game Art** and **Game Design** with experience in **Unity and C#**. Skilled in creating engaging gameplay systems, UI design, and visual elements.
 
 ---
