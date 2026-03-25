@@ -6,7 +6,7 @@
 ---
 
 ### CV
-[[Download My CV]](Jorolan CV.pdf)
+([Download My CV.pdf](https://github.com/Juzire/Jorolan-portfolio/blob/main/Jorolan%20CV.pdf))
 
 ---
 
