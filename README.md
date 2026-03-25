@@ -2,7 +2,6 @@
 
 * **Portfolio:** [juzire.itch.io](https://juzire.itch.io)
 * **Email:** [jjezreeljorolan@gmail.com](mailto:jjezreeljorolan@gmail.com)
-* **Phone:** +63 461 695 384 
 
 
 ### Game Developer | Game Designer | Game Artist
