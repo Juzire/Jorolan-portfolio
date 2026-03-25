@@ -40,6 +40,6 @@
 * Designed and implemented core mechanics, tower behavior, and enemy interactions.
 * **Tech:** Unity Engine, C#, Krita
 * **Itch.io:** [https://juzire.itch.io/barricade](https://juzire.itch.io/barricade)
-* **Github:** [https://juzire.itch.io/barricade](https://github.com/Juzire/Barricade.git)
+* **Github:** [https://github.com/Juzire/Barricade.git](https://github.com/Juzire/Barricade.git)
 
 
