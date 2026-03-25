@@ -1,5 +1,10 @@
 # Jezreel Jorolan
 
+* **Portfolio:** [juzire.itch.io](https://juzire.itch.io)
+* **Email:** [jjezreeljorolan@gmail.com](mailto:jjezreeljorolan@gmail.com)
+* **Phone:** +63 461 695 384 
+
+
 ### Game Developer | Game Designer | Game Artist
 **Aspiring Game Developer** specializing in **Game Art** and **Game Design** with experience in **Unity and C#**. Skilled in creating engaging gameplay systems, UI design, and visual elements.
 
@@ -10,32 +15,29 @@
 
 ---
 
-### 💻 Technical Skills
-* [cite_start]**Game Development:** 2D/3D Basics (Unity Engine) [cite: 4]
-* [cite_start]**Design:** Game Design, UI/UX Design [cite: 4]
-* [cite_start]**Art:** Game Art, Illustration (Krita) [cite: 4]
-* [cite_start]**Programming:** C# [cite: 1, 4]
+### Technical Skills
+* **Game Development:** 2D/3D Basics (Unity Engine)
+* **Design:** Game Design, UI/UX Design 
+* **Art:** Game Art, Illustration (Krita)
+* **Programming:** C#
 
 ---
 
-### [cite_start]🕹️ Featured Projects [cite: 4]
+### Projects
 
-#### 🧩 Scroll of Perception – Perspective Shifting Game
+#### Scroll of Perception – Perspective Shifting Game
 **Role:** Level Designer
 * Created gameplay layouts and player progression.
 * Designed levels exploring perspective-based mechanics in 2D and 3D environments.
 * **Tech:** Unity Engine
-* [🎮 Play on Itch.io](https://nocturnal-entertainments.itch.io/sop)
+* [Itch.io](https://nocturnal-entertainments.itch.io/sop)
+* [Github](https://juzire.itch.io/barricade)
 
-#### 🛡️ Barricade – Tower Defense Game
+#### Barricade – Tower Defense Game
 **Role:** Independent Developer (Applied Mathematics for Games Project)
 * Designed and implemented core mechanics, tower behavior, and enemy interactions.
 * **Tech:** Unity Engine, C#, Krita
-* [🎮 Play on Itch.io](https://juzire.itch.io/barricade)
+* [Itch.io](https://juzire.itch.io/barricade)
+* [Github](https://juzire.itch.io/barricade)
 
----
 
-### 📫 Connect with Me
-* [cite_start]**Portfolio:** [juzire.itch.io](https://juzire.itch.io) [cite: 1]
-* [cite_start]**Email:** [jjezreeljorolan@gmail.com](mailto:jjezreeljorolan@gmail.com) [cite: 1]
-* [cite_start]**Phone:** +63 461 695 384 [cite: 1]
